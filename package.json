@@ -1,0 +1,13 @@
+{
+  "name": "demonmouse",
+  "version": "1.0.0",
+  "description": "A minor nuisance - best used on enemies",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "Cole Erickson",
+  "license": "MIT",
+  "dependencies": {
+    "robotjs": "^0.4.2"
+  }
+}
