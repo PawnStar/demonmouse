@@ -1,4 +1,4 @@
-# demonmouse
+# Demon Mouse
 A minor nuisance - best used on enemies
 
 Demon Mouse is the more modern successor to one of my high school projects.
